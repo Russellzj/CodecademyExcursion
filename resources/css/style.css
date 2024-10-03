@@ -1,1 +1,40 @@
-ECHO is on.
+body {
+	background-color:black; 
+	text-align:center;
+	font-family: verdana;
+}
+	
+h1 {
+	color: white;
+	font-size: 50px;	
+}
+h2 {
+	color: white;
+	font-size: 42px;
+	font-weight: 300;
+}
+
+p {
+	color: grey;
+	font-size: 21px;
+}
+
+img {
+	color: grey;
+}
+	
+
+a:link, a:visited {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+a:hover {
+	color:blue;
+}
+
+footer {
+	text-align: right;
+	color: grey;
+	font-size: 20px;
+}
