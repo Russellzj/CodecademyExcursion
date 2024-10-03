@@ -1,32 +1,33 @@
 body {
 	background-color:black; 
 	text-align:center;
-	font-family: verdana;
+	font-family:verdana;
+	color:white;
 }
 	
 h1 {
-	color: white;
-	font-size: 50px;	
+	color:white;
+	font-size:50px;	
 }
 h2 {
-	color: white;
-	font-size: 42px;
-	font-weight: 300;
+	color:white;
+	font-size:42px;
+	font-weight:300;
 }
 
 p {
-	color: grey;
-	font-size: 21px;
+	color:grey;
+	font-size:21px;
 }
 
 img {
-	color: grey;
+	color:grey;
 }
 	
 
 a:link, a:visited {
-	color: aquamarine;
-	font-size: 16px;
+	color:aquamarine;
+	font-size:16px;
 }
 
 a:hover {
@@ -34,7 +35,7 @@ a:hover {
 }
 
 footer {
-	text-align: right;
+	text-align:right;
 	color: grey;
-	font-size: 20px;
+	font-size:20px;
 }
